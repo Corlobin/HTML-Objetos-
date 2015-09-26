@@ -1,0 +1,11 @@
+inicio
+	1000 1000 branco
+	quadrado 100 100 vermelho
+	circulo 100 100 azul
+	triangulo 100 100 preto
+	trapezio 100 100 roxo
+	paralelograma 100 100 verde
+	retangulo 100 100 rosa
+	oval 100 100 amarelo
+	estrela 100 100 azul
+fim

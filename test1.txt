@@ -1,0 +1,8 @@
+inicio
+	vermelho 10 10
+	poligono 10 10 preto
+	triangulo 5 5 vermelho
+	circulo 3 3 azul
+	trapezio 11 11 roxo
+	paralelograma 15 15 verde
+fim
